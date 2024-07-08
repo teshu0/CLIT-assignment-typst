@@ -1,8 +1,9 @@
 # CLIT-assignment-typst
 
-コンリテのアサインメントレポートのTypst版テンプレート。LaTeXしたくない人向け。
+コンリテのアクティビティ・アサインメントレポートのTypst版テンプレート。LaTeXしたくない人向け。
 
-- [`/assignment.typ`](./assignment.typ) は汎用的なテンプレート
+- [`/activity.typ`](./activity.typ) はアクティビティレポート(授業中の方)のテンプレート
+- [`/assignment.typ`](./assignment.typ) はアサインメントレポート(課題の方)のテンプレート
 - [`/template`](./template) はテンプレのためのユーリティティなど
 - [`/class`](./class) は授業ごとのテンプレだけど全部をカバーしてるわけじゃない
 
