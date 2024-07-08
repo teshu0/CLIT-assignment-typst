@@ -1,4 +1,4 @@
-# CLIT-assignment-typst
+# CLIT-report-typst
 
 コンリテのアクティビティ・アサインメントレポートのTypst版テンプレート。LaTeXしたくない人向け。
 
